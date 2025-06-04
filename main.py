@@ -66,7 +66,7 @@ def generate_chat_txt(history):
 # --- Streamlit App ---
 
 st.set_page_config("📄 Spark AI PDF Chatbot", layout="wide")
-st.title("📄 Spark 2.5 Rapid PDF Chatbot")
+st.title("📄 Spark 2.5 Rapid PDF Chatbot By Aaradhya Vanakhade")
 st.caption("Ask questions across multiple PDFs. Powered by Spark 2.5 Rapid.")
 
 # Session State Initialization
